@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Jupyter Notebook (hassas bilgiler içeriyor)
+YuzTanima.ipynb
+
+# Projeye özel geçici dosyalar
+temp_ses.mp3
+supheli.jpg
+
+# Kişisel yüz veritabanı (Fotoğraflarınızı GitHub'a yüklemeyin!)
+yuzler/
+
+# ESP32-CAM (Eğer varsa derleme dosyaları)
+build/
+.vscode/
